@@ -2,6 +2,8 @@
 
 Python 程式設計筆記
 
+# 一般安裝
+
 ## Add path
 
 1. 進階系統設定
@@ -88,3 +90,11 @@ Jupyter notebook
 ```
 Ctrl + C
 ```
+
+# 使用 Anaconda
+
+1. [Anaconda官網載點](https://www.anaconda.com/download/)
+
+2. 開啟 Anaconda Prompt
+
+3. 刪除方法：控制台 -> 解除安裝程式
