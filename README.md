@@ -63,11 +63,18 @@ deactivate
 pip install [name]
 ```
 
+* 檢查已安裝插件
+
+```
+pip list
+```
+
 * 檢查版本
 
 ```
+import [name]
 print([name].__version__)
-```
+``` 
 
 ## Jupyter notebook
 
@@ -97,4 +104,10 @@ Ctrl + C
 
 2. 開啟 Anaconda Prompt
 
-3. 刪除方法：控制台 -> 解除安裝程式
+3. 檢查已安裝插件
+
+```
+conda list
+```
+
+4. 刪除方法：控制台 -> 解除安裝程式
