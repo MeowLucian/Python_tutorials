@@ -76,6 +76,12 @@ import [name]
 print([name].__version__)
 ``` 
 
+## 使用 VS code 執行 .py 檔
+
+將 .vscode 資料夾放入欲執行的資料夾中
+
+並將 tasks.json 更換該電腦的 Python 路徑
+
 ## Jupyter notebook
 
 1. 開啟 Jupyter notebook
