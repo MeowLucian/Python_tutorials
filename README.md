@@ -82,6 +82,12 @@ print([name].__version__)
 
 並將 tasks.json 更換該電腦的 Python 路徑
 
+* 執行 .py 檔
+
+```
+Ctrl + Shift + B
+```
+
 ## Jupyter notebook
 
 1. 開啟 Jupyter notebook
